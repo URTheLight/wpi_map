@@ -1,11 +1,10 @@
 var svgMapDataWPI1920 = {
   data: {
     wpi: {
-      name: 'World Protest Index',
       format: 'Z-Score: {0}'
     },
     heatIndex: {
-      format: 'Visualized Heat Index: {0}',
+      format: 'Visualized Index: {0} (for display only)',
       thousandSeparator: ',',
       thresholdMax: 100,
       thresholdMin: 0
@@ -163,12 +162,10 @@ var svgMapDataWPI1920 = {
 var svgMapDataWPI1949 = {
   data: {
     wpi: {
-      name: 'World Protest Index',
       format: 'Z-Score: {0}'
     },
     heatIndex: {
-      name: 'Heat Map',
-      format: 'Visualized Index: {0}',
+      format: 'Visualized Index: {0} (for display only)',
       thousandSeparator: ',',
       thresholdMax: 100,
       thresholdMin: 0
@@ -327,10 +324,11 @@ var svgMapDataWPI1949 = {
 var svgMapDataWPI1996 = {
   data: {
     wpi: {
-      name: 'World Protest Index',
       format: 'Z-Score: {0}'
     },
     heatIndex: {
+      format: 'Visualized Index: {0} (for display only)',
+      thousandSeparator: ',',
       thresholdMax: 100,
       thresholdMin: 0
     }

@@ -20,6 +20,10 @@ a {
     color: #002D72;
 }
 
+.controlBtns {
+    text-align: center;
+}
+
 .name {
     clear: both;
     width: 100%;
