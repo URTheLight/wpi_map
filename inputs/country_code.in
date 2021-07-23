@@ -1,0 +1,437 @@
+AF Afghanistan
+AX Åland Islands
+AL Albania
+DZ Algeria
+AS American Samoa
+AD Andorra
+AO Angola
+AI Anguilla
+AQ Antarctica
+AG Antigua and Barbuda
+AR Argentina
+AM Armenia
+AW Aruba
+AU Australia
+AT Austria
+AZ Azerbaijan
+BS Bahamas
+BH Bahrain
+BD Bangladesh
+BB Barbados
+BY Belarus
+BE Belgium
+BZ Belize
+BJ Benin
+BM Bermuda
+BT Bhutan
+BO Bolivia
+BA Bosnia and Herzegovina
+BW Botswana
+BR Brazil
+IO British Indian Ocean Territory
+VG British Virgin Islands
+BN Brunei Darussalam
+BG Bulgaria
+BF Burkina Faso
+BI Burundi
+KH Cambodia
+CM Cameroon
+CA Canada
+CV Cape Verde
+BQ Caribbean Netherlands
+KY Cayman Islands
+CF Central African Republic
+TD Chad
+CL Chile
+CN China
+CX Christmas Island
+CC Cocos Islands
+CO Colombia
+KM Comoros
+CG Congo
+CK Cook Islands
+CR Costa Rica
+HR Croatia
+CU Cuba
+CW Curaçao
+CY Cyprus
+CZ Czech Republic
+CD Democratic Republic of the Congo
+DK Denmark
+DJ Djibouti
+DM Dominica
+DO Dominican Republic
+EC Ecuador
+EG Egypt
+SV El Salvador
+GQ Equatorial Guinea
+ER Eritrea
+EE Estonia
+ET Ethiopia
+FK Falkland Islands
+FO Faroe Islands
+FM Federated States of Micronesia
+FJ Fiji
+FI Finland
+FR France
+GF French Guiana
+PF French Polynesia
+TF French Southern Territories
+GA Gabon
+GM Gambia
+GE Georgia
+DE Germany
+GH Ghana
+GI Gibraltar
+GR Greece
+GL Greenland
+GD Grenada
+GP Guadeloupe
+GU Guam
+GT Guatemala
+GN Guinea
+GW Guinea-Bissau
+GY Guyana
+HT Haiti
+HN Honduras
+HK Hong Kong
+HU Hungary
+IS Iceland
+IN India
+ID Indonesia
+IR Iran
+IQ Iraq
+IE Ireland
+IM Isle of Man
+IL Israel
+IT Italy
+CI Ivory Coast
+JM Jamaica
+JP Japan
+JE Jersey
+JO Jordan
+KZ Kazakhstan
+KE Kenya
+KI Kiribati
+XK Kosovo
+KW Kuwait
+KG Kyrgyzstan
+LA Laos
+LV Latvia
+LB Lebanon
+LS Lesotho
+LR Liberia
+LY Libya
+LI Liechtenstein
+LT Lithuania
+LU Luxembourg
+MO Macau
+MK Macedonia
+MG Madagascar
+MW Malawi
+MY Malaysia
+MV Maldives
+ML Mali
+MT Malta
+MH Marshall Islands
+MQ Martinique
+MR Mauritania
+MU Mauritius
+YT Mayotte
+MX Mexico
+MD Moldova
+MC Monaco
+MN Mongolia
+ME Montenegro
+MS Montserrat
+MA Morocco
+MZ Mozambique
+MM Myanmar
+NA Namibia
+NR Nauru
+NP Nepal
+NL Netherlands
+NC New Caledonia
+NZ New Zealand
+NI Nicaragua
+NE Niger
+NG Nigeria
+NU Niue
+NF Norfolk Island
+KP North Korea
+MP Northern Mariana Islands
+NO Norway
+OM Oman
+PK Pakistan
+PW Palau
+PS Palestine
+PA Panama
+PG Papua New Guinea
+PY Paraguay
+PE Peru
+PH Philippines
+PN Pitcairn Islands
+PL Poland
+PT Portugal
+PR Puerto Rico
+QA Qatar
+RE Reunion
+RO Romania
+RU Russia
+RW Rwanda
+SH Saint Helena
+KN Saint Kitts and Nevis
+LC Saint Lucia
+PM Saint Pierre and Miquelon
+VC Saint Vincent and the Grenadines
+WS Samoa
+SM San Marino
+ST São Tomé and Príncipe
+SA Saudi Arabia
+SN Senegal
+RS Serbia
+SC Seychelles
+SL Sierra Leone
+SG Singapore
+SX Sint Maarten
+SK Slovakia
+SI Slovenia
+SB Solomon Islands
+SO Somalia
+ZA South Africa
+GS South Georgia and the South Sandwich Islands
+KR South Korea
+SS South Sudan
+ES Spain
+LK Sri Lanka
+SD Sudan
+SR Suriname
+SJ Svalbard and Jan Mayen
+SZ Eswatini
+SE Sweden
+CH Switzerland
+SY Syria
+TW Taiwan
+TJ Tajikistan
+TZ Tanzania
+TH Thailand
+TL Timor-Leste
+TG Togo
+TK Tokelau
+TO Tonga
+TT Trinidad and Tobago
+TN Tunisia
+TR Turkey
+TM Turkmenistan
+TC Turks and Caicos Islands
+TV Tuvalu
+UG Uganda
+UA Ukraine
+AE United Arab Emirates
+GB United Kingdom
+US United States
+UM United States Minor Outlying Islands
+VI United States Virgin Islands
+UY Uruguay
+UZ Uzbekistan
+VU Vanuatu
+VA Vatican City
+VE Venezuela
+VN Vietnam
+WF Wallis and Futuna
+EH Western Sahara
+YE Yemen
+ZM Zambia
+ZW Zimbabwe
+Yemen	-0.200601484
+Afhganistan	-0.126491106
+Africa, unspecified	-0.194975861
+Albania	-0.152956389
+Algeria	-0.08675387
+Andorra	-0.089087081
+Anglo-Egypt Sudan_ Sudan	-0.30372305
+Angola	-0.134987312
+Argentina	-0.503469105
+Australia	-0.599282238
+Austria	-0.329170287
+Austria-Hungary	-0.160773574
+Austria-Hungary	-0.186355073
+Bahrain	-0.158244718
+Bangladesh	-0.234833792
+Basutoland_ Lesotho	-0.126491106
+Democratic Republic of the Congo	-0.260864533
+Belgium	-0.481573398
+Belize	-0.089087081
+Bolivia	-0.455251754
+Brazil	-0.595244176
+Bulgaria	-0.241221014
+Myanmar	-0.312787962
+Burundi	-0.126491106
+Cambodia	-0.126491106
+Canada	-0.71895991
+Caribbean Islands	-0.253503547
+Central America	-0.243058136
+Central and East Africa	-0.184382596
+Sri Lanka	-0.327732352
+Chile	-0.564642423
+China	-0.288227791
+Colombia	-0.243116429
+Congo	-0.227685069
+Costa Rica	-0.216388845
+Cuba	-0.322135781
+Cyprus	-0.306801282
+Czech Republic	-0.436724584
+Benin	-0.154608599
+Denmark	-0.268108813
+Dodecanes Islands	-0.089087081
+Dominican Republic	-0.260697442
+Suriname	-0.187684892
+E. Germany	-0.138547413
+East Asia	-0.149537151
+Eastern Europe	-0.119904115
+Eastern Europe and the USSR	-0.089087081
+Ecuador	-0.482130602
+Egypt	-0.344360328
+El Salvador	0.382853714
+United Kingdom	-0.951883396
+Equatorial Guinea	-0.089087081
+Ethiopia	-0.117780348
+Europe	0.503167649
+Fiji	-0.219698617
+Finland	-0.344835899
+France	-0.263241792
+French Indochina	-0.170103454
+French Polynesia	-0.112956499
+Mali	-0.126491106
+French West Africa	2.980458772
+Gabon	-0.119904115
+Gambia	-0.280281173
+Germany	-0.211422974
+Germany (1210+1211)	-0.268464462
+Ghana	-0.298035778
+Gibraltar	-0.344613815
+Greece	0.299012423
+Guam	-0.089087081
+Guatemala	-0.314402962
+Guinea	-0.196916552
+Guyana	-0.194582103
+Haiti	-0.20895781
+Netherlands	-0.716528765
+Honduras	-0.141732373
+Hong Kong	-0.243108775
+Hungary	-0.227245121
+Iceland	-0.354301304
+India	-0.644248786
+India (British Empire and Goa)	-0.323177407
+Indonesia	-0.362655629
+Iran	-0.201580715
+Iraq	-0.317127932
+Israel	-0.115145771
+Italy	-0.562308438
+Ivory Coast	-0.13196793
+Jamaica	-0.231934998
+Japan	-0.499237124
+Jordan	3.375983684
+Kenya	-0.159804165
+South Korea	0.022941765
+Kuwait	-0.160481598
+Laos	-0.259281489
+Latin America and Caribbean	-0.126491106
+Lebanon	-0.493728474
+Liberia	-0.26539384
+Libya	-0.198803719
+Luxembourg	-0.247550676
+Macao	-0.122656691
+Madagascar	-0.140385288
+Majorca	-0.335552002
+Malaysia	-0.315802819
+Malta	-0.328211947
+Mauritania	-0.126491106
+Mauritius	0.723609327
+Mexico	-0.48529568
+Monaco	-0.155103333
+Mongolia	-0.089087081
+Morocco	-0.374964729
+Mozambique	-0.183884203
+N. Ireland	-0.238336849
+Zambia	-0.379655942
+N.W. Europe	-0.499342981
+Nepal	-0.175374135
+New Britain	-0.089087081
+New Caledonia	-0.155542754
+Vanuatu	-0.176981654
+New Zealand	-0.090005292
+Nicaragua	-0.234909279
+Niger	-0.170103454
+Nigeria_British W. Africa	0.401604492
+North Africa	-0.146450405
+North Africa & Middle East	-0.115316401
+Northwest Continental Europe (except Germany)	-0.291312424
+Norway	-0.528577132
+Malawi	-0.141760851
+Okinawa_Ryukyu Islands	-0.159938334
+Other	-0.314069056
+Other Africa	0.839448827
+Other or Unspec.Caribbean	-0.399025067
+Other West Africa	-0.170103454
+Pacific Trust Areas	-0.089087081
+Pakistan	-0.393199645
+Panama	-0.392900443
+Papua New Guinea	-0.19266428
+Paraguay	-0.20775008
+Peru	-0.558829338
+Philippines	-0.466473937
+Poland	-0.24999656
+Portugal	-0.420301546
+Puerto Rico	-0.363429665
+Ireland	-0.481045527
+Rest of Middle East (except Egypt)	1.794307575
+Romania	-0.333196456
+S.E. Asia	-0.170802283
+Zimbabwe	0.16949539
+S.W.Africa_ Namibia	-0.146783967
+Samoa	-0.089087081
+Saudi Arabia	-0.173537258
+Scandinavia	-0.229098642
+Senegal	-0.154924175
+Sierra Leone	-0.194822159
+Singapore	-0.29209473
+Djibouti	-0.170802283
+South Africa	-0.394544746
+South America	-0.089087081
+South Asia	-0.323177407
+Southern Africa	-0.266078268
+Spain	-0.538757486
+Subsaharan Africa	-0.266078268
+Swaziland	-0.138223899
+Sweden	-0.362332868
+Switzerland	-0.396418575
+Syria	-0.339310079
+Tahiti	-0.108236265
+Taiwan	-0.089087081
+Tanzania	-0.308718634
+Thailand	-0.325520344
+Trieste	-0.222437924
+Trinidad and Tobago	-0.252362015
+Tunisia	-0.232624196
+Turkey	1.519381624
+Uganda	0.407512414
+UK and Ireland	-0.382950741
+United Arab Emirates	-0.198650813
+Upper Volta	5.322776873
+Uruguay	-0.467852498
+United States	-0.702267593
+Russia	0.039940232
+Vanuatu	10.03197763
+Vatican City	-0.089087081
+Venezuela	-0.321665561
+Vietnam	-0.234303649
+W. Germany	-0.477635466
+Serbia	-0.084668648
+Slovakia	-0.436724584
+Croatia	-0.084668648
+Slovenia	-0.084668648
+Montenegro	-0.084668648
+Bosnia and Herzegovina	-0.084668648
+Macedonia	-0.084668648
+North Korea	0.022941765
