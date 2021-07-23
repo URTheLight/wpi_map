@@ -2,7 +2,7 @@
 <html>
 
 <head>
-  <title>GDP Map Demo</title>
+  <title>Heat Map Demo</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=0">
 
@@ -30,7 +30,7 @@
   <div class="demo-wrapper">
 
     <div class="name">
-      <span><b> World Protest Index Demo (1996) </b></span>
+      <span><b> World Labor Heat Map Demo</b></span>
     </div>
 
     <div class="demo-container">
@@ -57,9 +57,19 @@
         }
       </script>
     </div>
-
+    <div class="container">
+      <h3 style="margin-top:20px">About This Map</h3>
+      <hr>
+    
+      <p>The heat map uses data from World Labor Group, aiming to visualize historical labor actions.</p>
+      <h3 style="margin-top:20px">About z-score & Visualized Index</h3>
+      <hr>
+      <p>The z-score of each country is calculated with its historical mean and standard deviation of the country. The equation used is z-score = (case of current year- average cases)/standard deviation of historical cases. </p>
+      <p>This means that each country's z-score indicates how current year's labor actions compare to the country's own historical data.</p>
+      <p>The visualized index is z-score multiply by 100, for color coding purpose only.</p>
     <div class="footer">
-      <h4> © 2021 World Labor Group | All web content © 2021 <a href="mailto:wzhou30@jhu.edu"> Wei Zhou </a> </h4>
+      <h4> © 2021 The Arrighi Center of Global Studies </h4>
+      <h4> Technical Support: <a href="mailto:hguo@utexas.edu">Adrian Guo</a> | Contact: <a href="mailto:wzhou30@jhu.edu"> Wei Zhou </a> </h4>
     </div>
 
   </div>
