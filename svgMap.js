@@ -41,7 +41,7 @@ function svgMapWrapper(svgPanZoom) {
       hideFlag: false,
 
       // The default text to be shown when no data is present
-      noDataText: 'No data available',
+      noDataText: '',
 
       // Country specific options
       countries: {
@@ -895,7 +895,12 @@ function svgMapWrapper(svgPanZoom) {
         tooltipContent
       ).innerHTML = this.options.noDataText;
     } else {
-      var tooltipContentTable = '<table>';
+      this.createElement(
+        'div',
+        'svgMap-tooltip-no-data',
+        tooltipContent
+      ).innerHTML = this.options.noDataText;
+/*      var tooltipContentTable = '<table>';
       Object.keys(this.options.data.data).forEach(
         function (key) {
           var item = this.options.data.data[key];
@@ -911,7 +916,7 @@ function svgMapWrapper(svgPanZoom) {
         }.bind(this)
       );
       tooltipContentTable += '</table>';
-      tooltipContent.innerHTML = tooltipContentTable;
+      tooltipContent.innerHTML = tooltipContentTable;*/
     }
     return tooltipContentWrapper;
   };
@@ -1600,9 +1605,9 @@ function svgMapWrapper(svgPanZoom) {
   // Create the tooltip
 
   svgMap.prototype.createTooltip = function () {
-    if (this.tooltip) {
+    /*if (this.tooltip) {
       return false;
-    }
+    }*/
     this.tooltip = this.createElement(
       'div',
       'svgMap-tooltip',

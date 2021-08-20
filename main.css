@@ -1,0 +1,71 @@
+/* 
+    Name: main_style_sheet.css
+    Date Created: July 15 2021
+    Date Modified: July 15 2021
+*/
+
+a {
+    text-decoration: none;
+}
+
+.logoimg {
+    float: left;
+}
+
+.logocaption {
+    float: left;
+    margin-top: -0.1%;
+    margin-left: 0.8%;
+    font-family: Tahoma;
+    color: #002D72;
+}
+
+.controlBtns {
+    text-align: center;
+}
+
+.name {
+    width: 100%;
+    margin: auto;
+}
+
+.head{
+    clear: both;
+    text-align: center;
+    position: relative;
+    font-family: Tahoma;
+    font-size: 28px;
+    color: #002D72;
+}
+
+.selector{
+    position: relative;
+    width: 20%;
+    padding: 3px 3px;
+    display: inline-block;
+    font-style: italic;
+}
+
+.notice {
+    font-family: 'Times New Roman';
+    font-style: normal;
+    font-size: 16px;
+    color: #002D72;
+}
+
+h3 {
+    margin-top:5px;
+}
+
+.note {
+    border-top: 1px solid #002D72;
+}
+
+.footer {
+    position: relative;
+    top: 100%;
+    text-align: center;
+    border-top: 1px solid #002D72;
+    border-bottom: 1px solid #002D72;
+    width: 100%;
+}

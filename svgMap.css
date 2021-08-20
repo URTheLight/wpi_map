@@ -1,11 +1,12 @@
 /*! svgMap | https://github.com/StephanWagner/svgMap | MIT License | Copyright Stephan Wagner | https://stephanwagner.me */
 .svgMap-map-wrapper {
   position: relative;
-  width: 100%;
-  padding-top: 50%;
+  width: 60%;
+  padding-top: 30%;
   overflow: hidden;
   background: #d9ecff;
   color: #111;
+  margin: auto;
 }
 .svgMap-map-wrapper * {
   box-sizing: border-box;
